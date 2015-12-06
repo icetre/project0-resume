@@ -1,0 +1,21 @@
+img {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    z-index:0;
+    width:200px;
+}
+#profile {
+    width: 250;
+}
+
+#bod {
+   
+    clear:right;
+}
+
+#tb1{
+    border-left:1px solid;
+    padding:10px;
+    }
+caligned{text-align:center;}
